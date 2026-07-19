@@ -24,3 +24,5 @@ Although both have O(n) complexity, Divide and Conquer performs fewer comparison
 
 ## Run Locally
 pip install -r requirements.txt
+## Live demo
+https://min-max-finder-using-divide-and-conquer-algorithm-da6sa4qrlnp5.streamlit.app/
